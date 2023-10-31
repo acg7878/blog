@@ -26,11 +26,13 @@ menu:
 
 本博客采用基于Go语言的[Hugo](https://github.com/gohugoio/hugo)搭建, 使用了[Hugo-Stack](https://github.com/CaiJimmy/hugo-theme-stack)主题包, 并基于该主题包进行了一定程度的自定义修改. 本博客部署于Github Pages以及Gitee Pages.
 
-### 访问本博客:
+[//]: # (### 访问本博客:)
 
-* [地址1(Github.io)]() (暂时停止更新)
+[//]: # ()
+[//]: # (* [地址1&#40;Github.io&#41;]&#40;&#41; &#40;暂时停止更新&#41;)
 
-* [地址2(Gitee.io)](https://scau-jiwei.gitee.io) (由于Gitee代码审核, 此地址更新有滞后)
+[//]: # ()
+[//]: # (* [地址2&#40;Gitee.io&#41;]&#40;https://scau-jiwei.gitee.io&#41; &#40;由于Gitee代码审核, 此地址更新有滞后&#41;)
 
 ### 投稿要求
 
