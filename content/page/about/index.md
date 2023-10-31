@@ -1,13 +1,13 @@
 ---
 title: 关于
 description: Hugo, the world's fastest framework for building websites
-date: 2023-11-01
+date: 2022-09-01
 #aliases:
 #  - about-us
 #  - about-hugo
 #  - contact
 license: CC BY-NC-ND
-lastmod: 2023-11-01
+lastmod: 2022-10-30
 menu:
     main: 
         weight: -90
