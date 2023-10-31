@@ -1,13 +1,13 @@
 ---
 title: 关于
 description: Hugo, the world's fastest framework for building websites
-date: 2022-09-01
+#date: 2023-10-30
 #aliases:
 #  - about-us
 #  - about-hugo
 #  - contact
 license: CC BY-NC-ND
-lastmod: 2022-10-30
+lastmod: 2023-10-30
 menu:
     main: 
         weight: -90
@@ -18,7 +18,7 @@ menu:
 
 ### 说明
 
-本博客属于于华南农业大学计算机维护队(下称计维), 由第十七届委员团建立, 由`计维QunQun`主导建立, 目前由`计维QunQun`进行维护.
+本博客属于于华南农业大学计算机维护队(下称计维), 由第十八届委员团建立, 目前由`计维DRink`,`计维嘉慧`进行维护.
 
 本博客仅限内部成员访问，仅用作计维内部技术分享.
 
