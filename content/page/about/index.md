@@ -18,21 +18,14 @@ menu:
 
 ### 说明
 
-本博客属于于华南农业大学计算机维护队(下称计维), 由第十八届委员团建立, 目前由`计维DRink`,`计维嘉慧`进行维护.
+本博客属于于华南农业大学计算机维护队(下称计维), 由第十七届委员团建立,第十八届委员团继承， 目前由`计维DRink`,`计维佳慧`进行维护.
 
 本博客仅限内部成员访问，仅用作计维内部技术分享.
 
 ### 架构说明
 
-本博客采用基于Go语言的[Hugo](https://github.com/gohugoio/hugo)搭建, 使用了[Hugo-Stack](https://github.com/CaiJimmy/hugo-theme-stack)主题包, 并基于该主题包进行了一定程度的自定义修改. 本博客部署于Github Pages以及Gitee Pages.
+本博客采用基于Go语言的[Hugo](https://github.com/gohugoio/hugo)搭建, 使用了[Hugo-Stack](https://github.com/CaiJimmy/hugo-theme-stack)主题包, 并基于该主题包进行了一定程度的自定义修改. 本博客托管于Github，部署于Netlify。
 
-[//]: # (### 访问本博客:)
-
-[//]: # ()
-[//]: # (* [地址1&#40;Github.io&#41;]&#40;&#41; &#40;暂时停止更新&#41;)
-
-[//]: # ()
-[//]: # (* [地址2&#40;Gitee.io&#41;]&#40;https://scau-jiwei.gitee.io&#41; &#40;由于Gitee代码审核, 此地址更新有滞后&#41;)
 
 ### 投稿要求
 
@@ -44,8 +37,8 @@ menu:
 
 ### 计维队员投稿通道
 
-* [文档投稿地址](https://workspace.jianguoyun.com/inbox/collect/5ac874186b6340bf92c5aa7895134ee6/submitv2).
-* 将稿子私发委员.
+* [文档投稿地址](https://workspace.jianguoyun.com/inbox/collect/3ec1c7be2f0a49bdb9b6f05d93a45e99/submitv2).
+* 将稿件私发委员.
 * 扫码提交.
 
 ![稿件提交二维码](提交二维码.png)
