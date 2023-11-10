@@ -33,13 +33,13 @@ menu:
 
 稿件必须按照格式书写，格式文档见下
 
-[点击下载格式文档, 提取码miku](https://pan.baidu.com/s/1d6J2ZMZV1J3lkc42NixG1A?pwd=miku) 
+[点击下载格式文档, 提取码2elo](https://pan.baidu.com/s/14XizL4KsrLH1NGstcqkorw?pwd=2elo) 
 
 ### 计维队员投稿通道
 
-* [文档投稿地址](https://workspace.jianguoyun.com/inbox/collect/3ec1c7be2f0a49bdb9b6f05d93a45e99/submitv2).
+* [文档投稿地址](https://wj.qq.com/s2/13476877/284d/).
 * 将稿件私发委员.
 * 扫码提交.
 
-![稿件提交二维码](提交二维码.png)
+
 
