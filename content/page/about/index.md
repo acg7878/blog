@@ -1,6 +1,6 @@
 ---
 title: 关于
-description: Hugo, the world's fastest framework for building websites
+description: 关注计算机维护队喵～
 #date: 2023-10-30
 #aliases:
 #  - about-us
