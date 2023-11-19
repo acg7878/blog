@@ -7,7 +7,7 @@ license: CC-BY-NC-SA
 draft: false
 hidden: false
 tags:
-    - CBY
+    - 委员团
 ---
 
 # 计维博客撰写规范
